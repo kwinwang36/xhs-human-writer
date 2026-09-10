@@ -1,0 +1,4 @@
+interface:
+  display_name: "小红书真人感写作"
+  short_description: "先确认研究目的并系统拆解优质样本，确认报告后再原创写作"
+  default_prompt: "使用 $xhs-human-writer，先和我确认本次研究目的，再严格筛选并系统总结优质样本；等我确认研究报告后，再根据我的原材料写小红书笔记。"
